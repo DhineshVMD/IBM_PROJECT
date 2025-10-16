@@ -1,6 +1,3 @@
-// ====== Admin Dashboard Logic (Pure JavaScript) ======
-
-// Simulated API data
 const dashboardData = {
   users: 1245,
   revenue: 12480,
